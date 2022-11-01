@@ -1,3 +1,31 @@
+
+# Futura Criativa
+## _Portifólio de Serviços_
+
+Breve currículo e portifólio de produtos e serviços
+
+## Tecnologias
+
+Este projeto usa as segintes tecnologias:
+
+- [HTML5] - Para estrutura do site
+- [CSS] - Para estilo visual
+- [JavaScript] - Para as intereções com a interface
+- [PHP] - Para o processamento dos dados
+
+## License
+
+GNU
+
+**Free Software, Hell Yeah!**
+
+[//]: # (Referências utilizadas)
+
+   [jQuery]: <http://jquery.com>
+   [JavaScript]: <https://www.javascript.com>
+   [HTML5]: <https://html.spec.whatwg.org/>
+   [CSS]: <https://www.w3.org/Style/CSS>
+
 Página construída a partir de template.
 
 Template Name: MyResume
